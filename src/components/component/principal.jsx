@@ -140,7 +140,7 @@ export function principal() {
                     <div className="grid gap-1">
                       <h3 className="text-lg font-medium">Exciting Company Announcement</h3>
                       <p className="text-muted-foreground">
-                         thrilled to share a major announcement that will impact our business and industry.
+                         test
                       </p>
                       <Link href="#" className="text-primary" prefetch={false}>
                         Read More
@@ -165,7 +165,7 @@ export function principal() {
                         <ActivityIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
-                        Our R&D team is constantly innovating and pushing the boundaries of  possible.
+                      test2
                       </p>
                     </div>
                     <div className="bg-muted/50 rounded-lg p-4">
