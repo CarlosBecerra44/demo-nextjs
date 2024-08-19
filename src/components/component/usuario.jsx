@@ -43,7 +43,7 @@ export function usuario() {
           <div className="grid gap-2">
             <h2 className="text-lg font-semibold">About</h2>
             <p className="text-muted-foreground">
-              I'm a software engineer with a passion for building innovative products. In my free time, I enjoy hiking,
+             a software engineer with a passion for building innovative products. In my free time, I enjoy hiking,
               reading, and experimenting with new technologies.
             </p>
           </div>
