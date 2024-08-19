@@ -78,7 +78,7 @@ export function principal() {
                       alt="Article Image"
                       className="aspect-video overflow-hidden rounded-xl object-cover object-center" />
                     <div className="grid gap-1">
-                      <h3 className="text-xl font-bold">Estándar de trbajo</h3>
+                      <h3 className="text-xl font-bold">Estándar de trabajo</h3>
                       <p className="text-muted-foreground">
                         This year marks a significant milestone for our company as we celebrate 10 years of success and
                         growth.
@@ -161,7 +161,7 @@ export function principal() {
                   <div className="grid gap-2">
                     <div className="bg-muted/50 rounded-lg p-4">
                       <div className="flex items-center justify-between">
-                        <h3 className="text-lg font-medium">Ingenieria de nuevo producto</h3>
+                      <a href="/ingenieria_nuevo_producto"><h3 className="text-lg font-medium">Ingenieria de nuevo producto</h3></a>
                         <ActivityIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
@@ -170,7 +170,7 @@ export function principal() {
                     </div>
                     <div className="bg-muted/50 rounded-lg p-4">
                       <div className="flex items-center justify-between">
-                        <h3 className="text-lg font-medium">Marketing</h3>
+                      <a href="/marketing"><h3 className="text-lg font-medium">Marketing</h3></a>
                         <MegaphoneIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
@@ -181,7 +181,7 @@ export function principal() {
                   <div className="grid gap-2">
                     <div className="bg-muted/50 rounded-lg p-4">
                       <div className="flex items-center justify-between">
-                        <h3 className="text-lg font-medium">Ventas</h3>
+                      <a href="/ventas"><h3 className="text-lg font-medium">Ventas</h3></a>
                         <BriefcaseIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
@@ -190,7 +190,7 @@ export function principal() {
                     </div>
                     <div className="bg-muted/50 rounded-lg p-4">
                       <div className="flex items-center justify-between">
-                        <h3 className="text-lg font-medium">Contabilidad</h3>
+                      <a href="/contabilidad"><h3 className="text-lg font-medium">Contabilidad</h3></a>
                         <DollarSignIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
@@ -201,7 +201,7 @@ export function principal() {
                   <div className="grid gap-2">
                     <div className="bg-muted/50 rounded-lg p-4">
                       <div className="flex items-center justify-between">
-                        <h3 className="text-lg font-medium">Gente & Cultura</h3>
+                        <a href="/gente_y_cultura"><h3 className="text-lg font-medium">Gente & Cultura</h3></a>
                         <UsersIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
@@ -210,7 +210,7 @@ export function principal() {
                     </div>
                     <div className="bg-muted/50 rounded-lg p-4">
                       <div className="flex items-center justify-between">
-                        <h3 className="text-lg font-medium">IT</h3>
+                      <a href="/it"><h3 className="text-lg font-medium">IT</h3></a>
                         <ServerIcon className="w-6 h-6 text-muted-foreground" />
                       </div>
                       <p className="text-muted-foreground">
